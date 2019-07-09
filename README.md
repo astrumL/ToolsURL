@@ -13,3 +13,7 @@
 - 网址：https://github.com/bjorn/tiled
 - 介绍：Tiled Map Editor插件GitHub下载地址
 =======================================================
+- 名字：SuperTiled2Unity
+- 网址：https://seanba.com/supertiled2unity.html
+- 介绍：将Tiled Map Editor内拼出来的瓦片地图在unity内进行解析的工具
+=======================================================
