@@ -21,6 +21,6 @@
 - 网址：http://font.qqe2.com/#
 - 介绍：在线编辑字体，可以补齐字体库内的生僻字
 =======================================================
---名字：Unicode编码查询
+- 名字：Unicode编码查询
 - 网址：https://www.unicode.org/cgi-bin/GetUnihanData.pl?
 - 介绍：可以查询某个字符的Unicode编码
